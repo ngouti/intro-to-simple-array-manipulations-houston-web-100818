@@ -7,3 +7,8 @@ def using_unshift(array, string)
  new = array.unshift(string);
  new;
 end
+
+def using_pop(array)
+  array.pop()
+  array
+end
