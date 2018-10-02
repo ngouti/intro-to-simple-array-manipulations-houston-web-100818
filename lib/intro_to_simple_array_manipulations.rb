@@ -25,5 +25,6 @@ def using_shift(array)
  end
  
  def shift_with_args(array)
-   el = array.shift(2)
+   return array.shift(2)
+ end
    
