@@ -38,7 +38,11 @@ def using_shift(array)
    end
    
    def using_uniq(array)
-     return a.uniq
+     return a.uniq 
+   end
+   
+   def using_flatten(array)
+     
      
      
      
