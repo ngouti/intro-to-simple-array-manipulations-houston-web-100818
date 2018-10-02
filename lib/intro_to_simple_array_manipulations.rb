@@ -30,7 +30,10 @@ def using_shift(array)
    
    
    def using_concat(first, second)
-     
+     first = first.concat([second])
+   end
+   
+   
      
      
      
