@@ -33,7 +33,8 @@ def using_shift(array)
      first = first.concat(second)
    end
    
-   
+   def using_insert(array,element)
+     
      
      
      
